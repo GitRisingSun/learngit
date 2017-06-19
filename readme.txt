@@ -4,3 +4,6 @@ Git is free software distributed under the GPL.
 git manager update note file
 git add 2
 asdfsadf 
+git manager update note file
+git add 2
+asdfsadf 
