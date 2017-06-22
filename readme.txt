@@ -6,5 +6,4 @@ git add 2
 asdfsadf 
 git manager update note file
 git add 2
-asdfsadf 
 Creating a new branch is quick.
