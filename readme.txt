@@ -13,3 +13,4 @@ Creating a new branch is quick3 at dev
 git branch -r -d origin/branch-name  
 git push origin :branch-name  
 Creating a new branch is quick AND simple.
+Creating a new branch is quick NOT diffcult.
