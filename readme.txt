@@ -17,3 +17,4 @@ Creating a new branch is quick AND simple.
 Creating a new branch is quick NOT diffcult.
 Use windows commit
 Create a new branch 
+practice git stash
