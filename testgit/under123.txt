@@ -1,0 +1,23 @@
+123123123123123123123123
+var gpath = {
+    static_path: "http://static.zhtxw.net/",
+    image_path: "http://img.zhanghetianxia.com/",
+    cs_path: "http://cs.zhtxw.net",
+    ghs_path: "http://ghs.zhtxw.net",
+    fwz_path: "http://fwz.zhtxw.net",
+    zb_path: "http://zb.zhtxw.net",
+    ygc_path:"http://ygc.zhtxw.net"
+}
+url: "http://upload.zhtxw.cn/UploadImage.ashx"
+var gpath = {
+
+    static_path: "http://static.ccoop.net/",
+    newstatic_path: "http://newstatic.ccoop.net/",
+    image_path: "http://img.zhtxw.cn/",
+    cs_path: "http://cs.ccoop.net",
+    oldcs_path: "http://chaoshi.ccoop.net",
+    ghs_path: "http://ghs.ccoop.net",
+    fwz_path: "http://fwz.ccoop.net",
+    ygc_path: "http://ygc.ccoop.net"
+   
+}
